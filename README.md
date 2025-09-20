@@ -20,8 +20,7 @@ It allows users to perform basic arithmetic operations like addition, subtractio
 ## Installation / Usage
 1. Clone the repository or download the ZIP:  
 ```bash
-git clone <repository-url>
-https://github.com/roligupta123/Calculator.git
+git clone <https://github.com/roligupta123/Calculator.git>
 ```
 
 ## Project Structure
