@@ -25,8 +25,10 @@ https://github.com/roligupta123/Calculator.git
 ```
 
 ## Project Structure
+```bash
 calculator/
 │
 ├── index.html      # Main HTML file
 ├── style.css       # CSS for styling
 └── script.js       # JavaScript for functionality
+```
